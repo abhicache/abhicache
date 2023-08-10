@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theAbhishekBaranwal
-- 👀 I’m interested in opensource contribution and software development
-- 🌱 I’m currently learning Python and have a hands on experience in C++ and java
+- 👀 I’m interested in opensource contribution and developing robust tech solutions
+- 🌱 I’m currently learning Python, JavaScript and have a hands on experience in C++ and java
 - 💞️ I’m looking to collaborate on various opensouce projects
 - 📫 How to reach me:- Connect with me on linkedin https://www.linkedin.com/in/abhishek-baranwal-485353230/
 
