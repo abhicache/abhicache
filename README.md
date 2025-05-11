@@ -69,6 +69,5 @@ Always learning, always building. Sometimes breaking prod. Always fixing it befo
 
 ---
 
-## 🎉 Thank You!
 Thanks for visiting my profile! Feel free to connect or leave a ⭐️ if you like my work!
 ![Visitor Count](https://komarev.com/ghpvc/?username=abhicache&color=blue)  
