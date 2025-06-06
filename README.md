@@ -6,7 +6,7 @@
 ---
 
 ## 💻 About Me
-I'm Abhishek, a frontend engineer who loves turning ideas into clean, fast, and delightful web experiences. 
+I'm Abhi, a frontend engineer who loves turning ideas into clean, fast, and delightful web experiences. 
 
 I've shipped products at early-stage startups, worked across modern stacks (React, Next.js, Zustand/Redux, Tailwind, Prisma), and built everything from dashboards to section designers and scheduling platforms.
 
