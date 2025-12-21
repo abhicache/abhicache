@@ -6,12 +6,13 @@
 ---
 
 ## 💻 About Me
-I'm Abhi, a frontend engineer who loves turning ideas into clean, fast, and delightful web experiences. 
+I'm Abhi, an engineer who loves iterating over problems from a first principles pov. 
 
-I've shipped products at early-stage startups, worked across modern stacks (React, Next.js, Zustand/Redux, Tailwind, Prisma), and built everything from dashboards to section designers and scheduling platforms.
+I've shipped products at early-stage startups, worked across modern stacks (Django, FastAPI, React, Next.js, Zustand/Redux, Tailwind, Prisma), and built everything from dashboards to section designers and scheduling platforms.
 
-I care about design systems, developer experience, and shipping with ownership. Whether it's building scalable UIs, managing state like a boss, or wrangling JSON configs at 2 AM — I’m in.
+I care about design systems, developer experience, and shipping with ownership. Whether it's building scalable UIs, managing state like a boss, or wrangling JSON configs at 2 AM - I’m in.
 
+Love reading about scalable systems.
 Always learning, always building. Sometimes breaking prod. Always fixing it before anyone notices. 😄
 
 ---
@@ -28,6 +29,9 @@ Always learning, always building. Sometimes breaking prod. Always fixing it befo
 ![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=postgresql)
 
 ### Frameworks & Libraries
+
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=nodedotjs)
@@ -41,6 +45,7 @@ Always learning, always building. Sometimes breaking prod. Always fixing it befo
 ![Prisma](https://img.shields.io/badge/-Prisma-333?style=for-the-badge&logo=prisma)
 
 ### Tools & Databases
+
 ![NeonDB](https://img.shields.io/badge/-NeonDB-333?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-Supabase-333?style=for-the-badge&logo=supabase)
 ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-333?style=for-the-badge&logo=mongodb)
@@ -50,6 +55,13 @@ Always learning, always building. Sometimes breaking prod. Always fixing it befo
 ![ArduinoIDE](https://img.shields.io/badge/-ArduinoIDE-333?style=for-the-badge&logo=arduino)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
 ![npm](https://img.shields.io/badge/npm-Package%20Manager-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-333?style=for-the-badge&logo=sentry)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333?style=for-the-badge&logo=aws-lambda)
+![Coralogix](https://img.shields.io/badge/-Coralogix-333?style=for-the-badge&logo=coralogix)
+![Cursor](https://img.shields.io/badge/-Cursor-333?style=for-the-badge&logo=cursor)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-333?style=for-the-badge&logo=githubcopilot)
+![Kiro](https://img.shields.io/badge/-Kiro-333?style=for-the-badge&logo=kiro)
+
 
 ---
 
