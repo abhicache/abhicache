@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Abhi!
+# Hi there, I'm Abhi!
 
 
 *(Thanks for stopping by!)*
 > "I make things work. Then I make them work right. Then I pretend I did it right the first time :)"
 ---
 
-## 💻 About Me
+## About Me
 I'm Abhi, an engineer who loves iterating over problems from a first principles pov. 
 
 I've shipped products at early-stage startups, worked across modern stacks (Django, FastAPI, React, Next.js, Zustand/Redux, Tailwind, Prisma), and built everything from dashboards to section designers and scheduling platforms.
@@ -13,11 +13,11 @@ I've shipped products at early-stage startups, worked across modern stacks (Djan
 I care about design systems, developer experience, and shipping with ownership. Whether it's building scalable UIs, managing state like a boss, or wrangling JSON configs at 2 AM - I’m in.
 
 Love reading about scalable systems.
-Always learning, always building. Sometimes breaking prod. Always fixing it before anyone notices. 😄
+Always learning, always building. Sometimes breaking prod. Always fixing it before anyone notices.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
@@ -66,7 +66,7 @@ Always learning, always building. Sometimes breaking prod. Always fixing it befo
 ---
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhicache&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhicache&layout=compact&theme=radical" />
@@ -74,7 +74,7 @@ Always learning, always building. Sometimes breaking prod. Always fixing it befo
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theAbhishekBaranwal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/abhicache)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:abhicache)](https://twitter.com/intent/follow?screen_name=abhicache)
