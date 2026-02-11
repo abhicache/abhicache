@@ -1,19 +1,21 @@
 # Hi there, I'm Abhi!
 
 
-*(Thanks for stopping by!)*
+*(thanks for being here!)*
 > "I make things work. Then I make them work right. Then I pretend I did it right the first time :)"
 ---
 
 ## About Me
 I'm Abhi, an engineer who loves iterating over problems from a first principles pov. 
 
-I've shipped products at early-stage startups, worked across modern stacks (Django, FastAPI, React, Next.js, Zustand/Redux, Tailwind, Prisma), and built everything from dashboards to section designers and scheduling platforms.
+Lately been shipping backend for one of the **World's Largest AI Health & Fitness App, @HealthifyMe** catering to 40M+ users across the world.
+
+Shipped products at early-stage startups, worked across modern stacks (Django, FastAPI, React, Next.js, Zustand/Redux, Tailwind, Prisma), and built everything from dashboards to section designers and scheduling platforms.
 
 I care about design systems, developer experience, and shipping with ownership. Whether it's building scalable UIs, managing state like a boss, or wrangling JSON configs at 2 AM - I’m in.
 
 Love reading about scalable systems.
-Always learning, always building. Sometimes breaking prod. Always fixing it before anyone notices.
+Always learning, always building. Sometimes breaking prod. Interests lead me into reading writeups on  marketing and entire GTM of products (personally feel marketing and distribution will be the moat once AI takes over fully)
 
 ---
 
