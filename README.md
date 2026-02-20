@@ -1,14 +1,11 @@
 # Hi there, I'm Abhi!
 
-
-*(thanks for being here!)*
-> "I make things work. Then I make them work right. Then I pretend I did it right the first time :)"
----
-
 ## About Me
 I'm Abhi, an engineer who loves iterating over problems from a first principles pov. 
 
-Lately been shipping backend for one of the **World's Largest AI Health & Fitness App, @HealthifyMe** catering to 40M+ users across the world.
+Lately been shipping backend for one of the world’s largest AI Health & Fitness apps — HealthifyMe (40M+ users globally).  
+Most recent contributions are via my company-managed GitHub account → [github.com/healthifyAbhi](https://github.com/healthifyabhi)  
+(repos are private within the HealthifyMe org)
 
 Shipped products at early-stage startups, worked across modern stacks (Django, FastAPI, React, Next.js, Zustand/Redux, Tailwind, Prisma), and built everything from dashboards to section designers and scheduling platforms.
 
@@ -67,15 +64,6 @@ Always learning, always building. Sometimes breaking prod. Interests lead me int
 
 ---
 
-
-## GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhicache&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhicache&layout=compact&theme=radical" />
-</p>
-
----
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theAbhishekBaranwal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/abhicache)
@@ -83,5 +71,5 @@ Always learning, always building. Sometimes breaking prod. Interests lead me int
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or leave a ⭐️ if you like my work!
+Thanks for visiting my profile! Feel free to connect with me on my socials :)
 ![Visitor Count](https://komarev.com/ghpvc/?username=abhicache&color=blue)  
